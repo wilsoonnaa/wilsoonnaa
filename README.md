@@ -25,7 +25,7 @@ Whether it’s writing shaders (HLSL/GLSL), automating game‑art pipelines in M
 
 ---
 
-## 🧰 Languages & Tools I Use Daily
+## 🧰 Languages & Tools
 
 `MEL`·`Python (pytest, NumPy, Pandas, PyQt)` · `C# (Unity)` · `Blueprints (Unreal)` · `GLSL / HLSL` · `PHP` · `SQL (PostgreSQL)` · `Bash` · `Docker` · `Git` · `Maya/Blender` · `Substance` · `Houdini` · `Figma`
 
