@@ -34,7 +34,7 @@ Whether it’s writing shaders (HLSL/GLSL), automating game‑art pipelines in M
 ## 🔗 Featured Projects
 
 ### 🌊 Underwater Mechanics for “SHOAL” (Unity)
-[Project presentation](https://docs.google.com/presentation/d/1xgaUdD7MvPt8zJ928me3_21MJxmyWsqqVvs8qvL8h8/edit?usp=sharing) · [Conference article](https://kmu.itmo.ru/digests/article/15672)
+[Project presentation](https://docs.google.com/presentation/d/1xgaUdD7MvPt8zJ928me3_21MJxmyWsqqVvs8qvlL8h8/edit?usp=sharing) · [Conference article](https://kmu.itmo.ru/digests/article/15672)
 
 <img width="640" height="272" alt="Optimized underwater shader with GLSL – real-time caustics and fog integration" src="https://github.com/user-attachments/assets/e103d72c-6cc8-44a4-af0d-eee2abbe8495" />
 
