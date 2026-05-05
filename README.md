@@ -13,7 +13,7 @@ Whether it’s writing shaders (HLSL/GLSL), automating game‑art pipelines in M
 - 🎮 **Technical Artist for Games** – deep understanding of the game art pipeline: Autodesk Maya, Substance, Houdini, Unity, Unreal Engine.
 - 🖥️ **Graphics & Shader Programming** – Unity (C#/GLSL), Unreal (C++/HLSL/GLSL), real‑time VFX & accessibility shaders.
 - 🌐 **Web + DB** – PHP, PostgreSQL, comfortable building tools that bridge interactive media with data.
-- 🧠 **UX & UI Design** – strong foundation in usability research, interface design, modular UI kits, and testing with user groups.
+- 🧠 **UX & UI Design** – strong foundation in usability research, interface design, modular UI kits in Figma, and testing with user groups.
 - 🗣️ English (native), Russian (fluent).
 
 ### 🎓 Education
@@ -27,7 +27,7 @@ Whether it’s writing shaders (HLSL/GLSL), automating game‑art pipelines in M
 
 ## 🧰 Languages & Tools I Use Daily
 
-`MEL`·`Python (pytest, NumPy, Pandas, PyQt)` · `C# (Unity)` · `Blueprints (Unreal)` · `GLSL / HLSL` · `PHP` · `SQL (PostgreSQL)` · `Bash` · `Docker` · `Git` · `Maya/Blender` · `Substance` · `Houdini`
+`MEL`·`Python (pytest, NumPy, Pandas, PyQt)` · `C# (Unity)` · `Blueprints (Unreal)` · `GLSL / HLSL` · `PHP` · `SQL (PostgreSQL)` · `Bash` · `Docker` · `Git` · `Maya/Blender` · `Substance` · `Houdini` · `Figma`
 
 ---
 
