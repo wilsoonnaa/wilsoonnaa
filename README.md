@@ -40,8 +40,8 @@ Whether it’s writing shaders (HLSL/GLSL), automating game‑art pipelines in M
 
 *Optimized water shader system in GLSL – includes optimized caustics and interactive seaweed.*
 
+- Includes a custom water shader, BOIDs generation system, geometry shader for interactive seaweed, realistic caustics, foam generation and water physics.
 - Developed optimized shaders (GLSL) and Python automation tools to inject them into the game environment.  
-- Includes a custom water shader, BOIDs generation system, geometry shader for interactive seaweed, realistic caustics, foam generation water physics.
 - **Won the Computer Graphics section** at ITMO’s XIV KMU conference (2025).  
 - Stack: Python, C#, GLSL, Unity, Blender.
 
