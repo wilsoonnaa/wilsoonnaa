@@ -9,7 +9,7 @@ Whether it’s writing shaders (HLSL/GLSL), automating game‑art pipelines in M
 
 ## 🧑‍💻 About me + skills
 
-- ⚙️ **Python Automation** – scripts for auto‑rigging, shader integration, asset optimization, and testing GPU performance across different hardware.
+- ⚙️ **Python Automation** – scripts for automation such as auto‑rigging, shader integration, asset optimization, and testing GPU performance.
 - 🎮 **Technical Artist for Games** – deep understanding of the game art pipeline: Autodesk Maya, Substance, Houdini, Unity, Unreal Engine.
 - 🖥️ **Graphics & Shader Programming** – Unity (C#/GLSL), Unreal (C++/HLSL/GLSL), real‑time VFX & accessibility shaders.
 - 🌐 **Web + DB** – PHP, PostgreSQL, comfortable building tools that bridge interactive media with data.
