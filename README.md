@@ -7,10 +7,10 @@ Whether it’s writing shaders (HLSL/GLSL), automating game‑art pipelines in M
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About me + skills
 
-- 🎮 **Technical Artist for Games** – deep understanding of the game art pipeline: Autodesk Maya, Substance, Houdini, Unity, Unreal Engine.
 - ⚙️ **Python Automation** – scripts for auto‑rigging, shader integration, asset optimization, and testing GPU performance across different hardware.
+- 🎮 **Technical Artist for Games** – deep understanding of the game art pipeline: Autodesk Maya, Substance, Houdini, Unity, Unreal Engine.
 - 🖥️ **Graphics & Shader Programming** – Unity (C#/GLSL), Unreal (C++/HLSL/GLSL), real‑time VFX & accessibility shaders.
 - 🌐 **Web + DB** – PHP, PostgreSQL, comfortable building tools that bridge interactive media with data.
 - 🧠 **UX & UI Design** – strong foundation in usability research, interface design, modular UI kits, and testing with user groups.
